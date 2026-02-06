@@ -7,4 +7,4 @@
 Чтобы запустить хаб, вставь этот код в свой экзекутор:
 
 ```lua
-loadstring(game:HttpGet('[https://atomic.gamer.gd/load.lua](https://atomic.gamer.gd/load.lua)'))()
+loadstring(game:HttpGet())()
