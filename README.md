@@ -7,4 +7,4 @@
 Чтобы запустить хаб, вставь этот код в свой экзекутор:
 
 ```lua
-loadstring(game:HttpGet())()
+loadstring(game:HttpGet(https://raw.githubusercontent.com/Atomic-Hub-Roblox/loader/refs/heads/main/Atomic%20Hub))()
